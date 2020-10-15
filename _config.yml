@@ -44,5 +44,8 @@ nav:
   - title: Blog
     url: /archive
 
+  - title: Resume
+    url: /resume
+
   - title: About
     url: /about
