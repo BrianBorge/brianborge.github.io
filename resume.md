@@ -11,7 +11,9 @@ If you want a pdf version of the resume to take with you, **[click here]({{ site
 # Brian Borge
 ## Senior Software Engineer
 
-###### [ [brianborge.com](https://brianborge.com) ] . [ [brian.borge@hey.com](mailto:brian.borge@hey.com) ] . [ [631 902 3956](tel:6319023956) ]
+- [brianborge.com](https://brianborge.com)
+- [brian.borge@hey.com](mailto:brian.borge@hey.com)
+- [631 902 3956](tel:6319023956)
 
 ------
 
